@@ -1,3 +1,6 @@
+
+CREATE DATABASE `test`;
+
 CREATE TABLE `user` (
   `ID` int(8) NOT NULL AUTO_INCREMENT,
   `name` varchar(25) NOT NULL,
